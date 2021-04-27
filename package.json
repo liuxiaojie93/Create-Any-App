@@ -1,0 +1,23 @@
+{
+  "name": "create-any-app",
+  "version": "1.0.0",
+  "description": "A CLI for React &amp; Vue and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./bin/cli.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuxiaojie93/Create-Any-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuxiaojie93/Create-Any-App/issues"
+  },
+  "homepage": "https://github.com/liuxiaojie93/Create-Any-App#readme",
+  "devDependencies": {
+    "commander": "^7.2.0"
+  }
+}
