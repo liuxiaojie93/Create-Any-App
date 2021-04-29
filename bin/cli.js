@@ -8,7 +8,7 @@ const { validateProjectName } = require("./utils/validateProjectName");
 const download = require('download-git-repo');
 
 program
-  .command("create <projectName>")
+  .command("ck <projectName>")
   .alias("ck")
   .option("-r, --recursive", "Remove recursively")
   .option("-d --drink [drink]", "Drink", "Beer")
