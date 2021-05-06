@@ -28,4 +28,4 @@ program
     create(projectName,cmd)
   });
 
-  program.version("0.0.1", "-v,--version").parse(process.argv);
+  program.version("1.0.0", "-v,--version").parse(process.argv);
