@@ -1,6 +1,6 @@
 {
-  "name": "create-bigapp",
-  "version": "1.2.0",
+  "name": "create-beauty-app",
+  "version": "1.0.0",
   "description": "A CLI for React &amp; Vue and more",
   "main": "index.js",
   "scripts": {
